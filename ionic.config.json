@@ -1,0 +1,7 @@
+{
+  "name": "local-notifs-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
